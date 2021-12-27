@@ -1,0 +1,9 @@
+# prod | dev
+DEPLOY = prod
+
+BACKEND_PORT = 8000
+BACKEND_ENTRYPOINT = /api/v1.0/
+
+DATABASE_DSN =     mongodb://doctrinedb-service:27017/legal-doctrine
+DATABASE_DSN_DEV = mongodb://127.0.0.1:27017/legal-doctrine
+DATABASE_NAME = legal-doctrine
