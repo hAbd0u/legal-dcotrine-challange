@@ -1,5 +1,5 @@
-# prod | dev
-DEPLOY = prod
+#DEPLOY = prod
+DEPLOY = dev
 
 BACKEND_PORT = 8000
 BACKEND_ENTRYPOINT = /api/v1.0/
