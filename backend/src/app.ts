@@ -41,6 +41,9 @@ export class App {
             next();
         });
 
+        // Serve documentation files
+        this.app.use('/docs', express.static(`${__dirname}/docs`));
+
         //this.app.use(this.apiUrl + '/', this.app.router());
     }
 

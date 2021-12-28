@@ -30,5 +30,11 @@
   "devDependencies": {
     "@types/jest": "^27.0.3",
     "ts-jest": "^27.1.2"
+  },
+  "apidoc": {
+    "name": "Legal doctrine Rest API",
+    "version": "1.0.0",
+    "title": "Legal doctrine Rest API",
+    "description": "The documentation to use Legal doctrine Rest API v1.0"
   }
 }
