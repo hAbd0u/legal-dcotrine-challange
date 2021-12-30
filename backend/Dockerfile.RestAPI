@@ -5,12 +5,12 @@ WORKDIR /usr/src/app
 COPY *.json .
 
 RUN npm install
+RUN npm install apidoc -g
 
 COPY src src
 COPY env .
 
 RUN npm run build
-RUN npm install apidoc -g
 RUN apidoc -i src -o dist/docs
 
 EXPOSE 8000
