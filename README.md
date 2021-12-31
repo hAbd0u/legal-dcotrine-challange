@@ -21,6 +21,7 @@ This is a mini project as phase of the interview, you can read the project specs
 
 ## API Documentation
 You can read the documentation [here](http://127.0.0.1:8080/docs) after lunching the project from `CLI` or `docker-compose`.
+
 Or you can compile it locally and open it directly via browser:
 ```
 # First install apidoc
@@ -93,7 +94,7 @@ Please report all issues [here](https://github.com/hAbd0u/legal-dcotrine-challan
 
 ## Code of Conduct
 
-This project has adopted the [Open Source Code of Conduct](https://opensource.guide/code-of-conduct/). For more information see the [Code of Conduct FAQ](https://opensource.guide/code-of-conduct/faq/).
+This project has adopted the [Open Source Code of Conduct](https://opensource.guide/code-of-conduct/), for more information see the [Code of Conduct FAQ](https://opensource.guide/code-of-conduct/faq/).
 
 ## Authors and contributors
 - [BELADEL ILYES ABDELRAZAK](https://github.com/hAbd0u)
